@@ -1,6 +1,6 @@
 {
   "name": "increment-zip",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "Incremental zip package for diffrent version files",
   "main": "index.js",
   "author": {
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/redar9/promise.git"
+    "url": "https://github.com/redar9/increment-zip.git"
   },
   "license": "MIT"
 }
