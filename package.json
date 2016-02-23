@@ -1,0 +1,22 @@
+{
+  "name": "increment-zip",
+  "version": "0.0.1",
+  "description": "Incremental zip package for diffrent version files",
+  "main": "index.js",
+  "author": {
+    "name": "Ruiyuan Wang"
+  },
+  "keywords": [
+    "increment",
+    "zip",
+    "files"
+  ],
+  "dependencies": {
+    "archiver": "~0.21.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/redar9/promise.git"
+  },
+  "license": "MIT"
+}
